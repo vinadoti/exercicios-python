@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 <div>
   	<img align="center" alt="Vivi-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Vivi-vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  	
+    <img align="center" alt="Vivi-jupyter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
 
 ---
@@ -22,6 +22,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ---
 
-Feito com ♥ by VivianNadoti
+Feito com ♥ by [VivianNadoti](https://github.com/vinadoti)
 </br>
 Créditos ao meu professor dessa disciplina [Henrique Dezani](https://github.com/henriquedezani)
